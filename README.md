@@ -45,7 +45,7 @@ cd ..
 
 ##### **※ Evaluating the model**
 
->  The disentanglement and clustering  module
+>  The disentanglement and clustering modules
 
 - Specify the output directory to save the results in `SAVR_DIR`
 
