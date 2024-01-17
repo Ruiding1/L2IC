@@ -91,7 +91,7 @@ In [train_Seg_module.py]()
 
 > ##### ※ Image disentanglement
 >
-> The foreground, background, and mask decompose excellently without clever regularization or supervision.
+> The foreground, background, and mask are excellently decomposed without clever regularization or supervision.
 
 <p align="center">
   <img src="figure/image_dis.jpg" width="100%" title=" "></img>
