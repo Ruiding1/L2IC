@@ -16,7 +16,7 @@ This is the official code of our paper "Learning to Image Composition for Disent
 
 **Note**: You need to download the data if you wish to train your own model.
 
-Download the [CUB](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html ) dataset. Please extract it inside the `data` directory.
+Download [CUB](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html ) dataset. Please extract it inside the `data` directory.
 
 For segmentation task, we use the `CUB`, `Dog`,  `Car`, and `Clevr` datasets provided by [DRC](https://github.com/yuPeiyu98/Deep-Region-Competition). You can refer to DRC for details.
 
